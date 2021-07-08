@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@500&display=swap');
+
+body  {
+    background-color: #8f0d0d;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: #fff;
+    font-size: 1.5rem;
+}
+
+p {
+    font-family: 'Parisienne', cursive;
+    color: #fff;
+    font-size: 2.5rem;
+    margin: -20px;
+}
+
+
+a {
+    color: #8f0d0d;
+    text-decoration: none;
+    font-family: 'Karla', sans-serif;
+    text-transform: uppercase;
+}
+
+a:hover {
+   background-color: #8f0d0d;
+   border: 2px solid #fff;
+   color: #fff;
+   transition: all .3s;
+}
+
+
+#trofeu, #links {
+    margin: 0 auto;
+    text-align: center;
+    padding: 30px;
+}
+
+#links {
+    padding: 10px;
+}
+
+.link-livro {
+    margin: 30px;
+}
+
+.livro {
+   
+    background-color: #fff;
+    padding: 15px 20px;
+    border: 1px solid transparent;
+    border-radius: 10px;
+    display: block; /* deixar todos os links do mesmo tamanho */
+}
+
+
+
